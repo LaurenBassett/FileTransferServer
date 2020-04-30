@@ -1,0 +1,588 @@
+____________________________
+File: client.py
+File Size: 2373 MB
+File was last accessed on: 1587780846 
+
+File: coronavirus.txt
+File Size: 32 MB
+File was last accessed on: 1587778907 
+
+File: fileStats.txt
+File Size: 0 MB
+File was last accessed on: 1587780840 
+
+File: Lab3_Bassett.docx
+File Size: 1024 MB
+File was last accessed on: 1587777698 
+
+File: meany.txt
+File Size: 0 MB
+File was last accessed on: 1587775726 
+
+File: penis.txt
+File Size: 0 MB
+File was last accessed on: 1587775519 
+
+File: serveronly.txt
+File Size: 9 MB
+File was last accessed on: 1587776312 
+
+File: test.txt
+File Size: 11 MB
+File was last accessed on: 1587778261 
+____________________________
+File: client.py
+File Size: 2823 MB
+File was last accessed on: 1587781389 
+
+File: coronavirus.txt
+File Size: 32 MB
+File was last accessed on: 1587778907 
+
+File: fileStats.txt
+File Size: 666 MB
+File was last accessed on: 1587780863 
+
+File: Lab3_Bassett.docx
+File Size: 1024 MB
+File was last accessed on: 1587777698 
+
+File: meany.txt
+File Size: 0 MB
+File was last accessed on: 1587775726 
+
+File: penis.txt
+File Size: 0 MB
+File was last accessed on: 1587775519 
+
+File: test.txt
+File Size: 11 MB
+File was last accessed on: 1587778261 
+____________________________
+File: client.py
+File Size: 2953 MB
+File was last accessed on: 1587783699 
+
+File: corona.txt
+File Size: 9549 MB
+File was last accessed on: 1587783608 
+
+File: essay.txt
+File Size: 3751 MB
+File was last accessed on: 1587783546 
+
+File: fileStats.txt
+File Size: 1253 MB
+File was last accessed on: 1587782476 
+
+File: lorem.txt
+File Size: 29131 MB
+File was last accessed on: 1587783663 
+
+File: something.txt
+File Size: 58 MB
+File was last accessed on: 1587783584 
+____________________________
+File: client.py
+File Size: 2953 MB
+File was last accessed on: 1587783823 
+
+File: corona.txt
+File Size: 9549 MB
+File was last accessed on: 1587783608 
+
+File: coronavirus.txt
+File Size: 1024 MB
+File was last accessed on: 1587783845 
+
+File: essay.txt
+File Size: 3751 MB
+File was last accessed on: 1587783546 
+
+File: fileStats.txt
+File Size: 1763 MB
+File was last accessed on: 1587783703 
+
+File: lorem.txt
+File Size: 29131 MB
+File was last accessed on: 1587783829 
+
+File: something.txt
+File Size: 58 MB
+File was last accessed on: 1587783584 
+____________________________
+File: a.txt
+File Size: 1 MB
+File was last accessed on: 1587784063 
+
+File: aaa.txt
+File Size: 100000 MB
+File was last accessed on: 1587784063 
+
+File: alphabet.txt
+File Size: 100000 MB
+File was last accessed on: 1587784063 
+
+File: bible.txt
+File Size: 4047392 MB
+File was last accessed on: 1587784030 
+
+File: client.py
+File Size: 2953 MB
+File was last accessed on: 1587784363 
+
+File: corona.txt
+File Size: 9549 MB
+File was last accessed on: 1587783608 
+
+File: coronavirus.txt
+File Size: 1024 MB
+File was last accessed on: 1587783845 
+
+File: essay.txt
+File Size: 3751 MB
+File was last accessed on: 1587783546 
+
+File: fileStats.txt
+File Size: 2358 MB
+File was last accessed on: 1587783861 
+
+File: lorem.txt
+File Size: 29131 MB
+File was last accessed on: 1587783829 
+
+File: random.txt
+File Size: 100000 MB
+File was last accessed on: 1587784063 
+
+File: something.txt
+File Size: 58 MB
+File was last accessed on: 1587783584 
+
+File: world192.txt
+File Size: 2473400 MB
+File was last accessed on: 1587784022 
+____________________________
+File: a.txt
+File Size: 1 MB
+File was last accessed on: 1587784621 
+
+File: aaa.txt
+File Size: 100000 MB
+File was last accessed on: 1587784063 
+
+File: alphabet.txt
+File Size: 100000 MB
+File was last accessed on: 1587784063 
+
+File: bible.txt
+File Size: 1024 MB
+File was last accessed on: 1587784448 
+
+File: client.py
+File Size: 2953 MB
+File was last accessed on: 1587784615 
+
+File: corona.txt
+File Size: 9549 MB
+File was last accessed on: 1587783608 
+
+File: coronavirus.txt
+File Size: 1024 MB
+File was last accessed on: 1587783845 
+
+File: essay.txt
+File Size: 3751 MB
+File was last accessed on: 1587783546 
+
+File: fileStats.txt
+File Size: 3437 MB
+File was last accessed on: 1587784366 
+
+File: lorem.txt
+File Size: 29131 MB
+File was last accessed on: 1587784423 
+
+File: pi.txt
+File Size: 1024 MB
+File was last accessed on: 1587784409 
+
+File: random.txt
+File Size: 100000 MB
+File was last accessed on: 1587784063 
+
+File: something.txt
+File Size: 58 MB
+File was last accessed on: 1587784457 
+
+File: world192.txt
+File Size: 2473400 MB
+File was last accessed on: 1587784387 
+____________________________
+File: a.txt
+File Size: 1 MB
+File was last accessed on: 1587784905 
+
+File: aaa.txt
+File Size: 100000 MB
+File was last accessed on: 1587784918 
+
+File: alphabet.txt
+File Size: 100000 MB
+File was last accessed on: 1587784923 
+
+File: bible.txt
+File Size: 1024 MB
+File was last accessed on: 1587784929 
+
+File: client.py
+File Size: 2953 MB
+File was last accessed on: 1587784714 
+
+File: corona.txt
+File Size: 1024 MB
+File was last accessed on: 1587784939 
+
+File: coronavirus.txt
+File Size: 1024 MB
+File was last accessed on: 1587784741 
+
+File: essay.txt
+File Size: 3751 MB
+File was last accessed on: 1587784939 
+
+File: fileStats.txt
+File Size: 4589 MB
+File was last accessed on: 1587784626 
+
+File: lorem.txt
+File Size: 1024 MB
+File was last accessed on: 1587784954 
+
+File: pi.txt
+File Size: 1024 MB
+File was last accessed on: 1587784756 
+
+File: random.txt
+File Size: 100000 MB
+File was last accessed on: 1587784948 
+
+File: small.txt
+File Size: 12 MB
+File was last accessed on: 1587784954 
+
+File: something.txt
+File Size: 58 MB
+File was last accessed on: 1587784766 
+
+File: world192.txt
+File Size: 1024 MB
+File was last accessed on: 1587784774 
+____________________________
+File: aaa.txt
+File Size: 100000 MB
+File was last accessed on: 1587784918 
+
+File: alphabet.txt
+File Size: 100000 MB
+File was last accessed on: 1587784923 
+
+File: bible.txt
+File Size: 1024 MB
+File was last accessed on: 1587784929 
+
+File: client.py
+File Size: 2953 MB
+File was last accessed on: 1587786932 
+
+File: corona.txt
+File Size: 1024 MB
+File was last accessed on: 1587786890 
+
+File: coronavirus.txt
+File Size: 1024 MB
+File was last accessed on: 1587784741 
+
+File: essay.txt
+File Size: 3751 MB
+File was last accessed on: 1587784939 
+
+File: fileStats.txt
+File Size: 5814 MB
+File was last accessed on: 1587784958 
+
+File: pi.txt
+File Size: 1024 MB
+File was last accessed on: 1587784756 
+
+File: random.txt
+File Size: 100000 MB
+File was last accessed on: 1587784948 
+
+File: small.txt
+File Size: 12 MB
+File was last accessed on: 1587784954 
+
+File: something.txt
+File Size: 58 MB
+File was last accessed on: 1587784766 
+
+File: world192.txt
+File Size: 1024 MB
+File was last accessed on: 1587784774 
+____________________________
+File: aaa.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: alphabet.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: bible.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: client.py
+File Size: 2953 MB
+File was last accessed on: 1588099447 
+
+File: corona.txt
+File Size: 1024 MB
+File was last accessed on: 1587956363 
+
+File: coronavirus.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: essay.txt
+File Size: 3751 MB
+File was last accessed on: 1587787282 
+
+File: fileStats.txt
+File Size: 6888 MB
+File was last accessed on: 1587956363 
+
+File: pi.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: random.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: small.txt
+File Size: 12 MB
+File was last accessed on: 1587787282 
+
+File: something.txt
+File Size: 58 MB
+File was last accessed on: 1587787282 
+
+File: world192.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+____________________________
+File: aaa.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: alphabet.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: bible.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: client.py
+File Size: 2953 MB
+File was last accessed on: 1588099447 
+
+File: corona.txt
+File Size: 1024 MB
+File was last accessed on: 1587956363 
+
+File: coronavirus.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: essay.txt
+File Size: 3751 MB
+File was last accessed on: 1587787282 
+
+File: fileStats.txt
+File Size: 7962 MB
+File was last accessed on: 1588099465 
+
+File: pi.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: random.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: small.txt
+File Size: 12 MB
+File was last accessed on: 1587787282 
+
+File: something.txt
+File Size: 58 MB
+File was last accessed on: 1587787282 
+
+File: world192.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+____________________________
+File: aaa.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: alphabet.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: bible.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: client.py
+File Size: 2995 MB
+File was last accessed on: 1588099694 
+
+File: corona.txt
+File Size: 1024 MB
+File was last accessed on: 1587956363 
+
+File: coronavirus.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: essay.txt
+File Size: 3751 MB
+File was last accessed on: 1587787282 
+
+File: fileStats.txt
+File Size: 9036 MB
+File was last accessed on: 1588099481 
+
+File: pi.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: random.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: small.txt
+File Size: 12 MB
+File was last accessed on: 1587787282 
+
+File: something.txt
+File Size: 58 MB
+File was last accessed on: 1587787282 
+
+File: world192.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+____________________________
+File: aaa.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: alphabet.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: bible.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: client.py
+File Size: 2995 MB
+File was last accessed on: 1588099694 
+
+File: corona.txt
+File Size: 1024 MB
+File was last accessed on: 1587956363 
+
+File: coronavirus.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: essay.txt
+File Size: 3751 MB
+File was last accessed on: 1587787282 
+
+File: fileStats.txt
+File Size: 10110 MB
+File was last accessed on: 1588099706 
+
+File: pi.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: random.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: small.txt
+File Size: 12 MB
+File was last accessed on: 1588099714 
+
+File: something.txt
+File Size: 58 MB
+File was last accessed on: 1587787282 
+
+File: world192.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+____________________________
+File: aaa.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: alphabet.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: bible.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: client.py
+File Size: 2995 MB
+File was last accessed on: 1588103192 
+
+File: corona.txt
+File Size: 1024 MB
+File was last accessed on: 1587956363 
+
+File: coronavirus.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: essay.txt
+File Size: 3751 MB
+File was last accessed on: 1587787282 
+
+File: fileStats.txt
+File Size: 11185 MB
+File was last accessed on: 1588099718 
+
+File: pi.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
+
+File: random.txt
+File Size: 100000 MB
+File was last accessed on: 1587787282 
+
+File: something.txt
+File Size: 58 MB
+File was last accessed on: 1587787282 
+
+File: world192.txt
+File Size: 1024 MB
+File was last accessed on: 1587787282 
