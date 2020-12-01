@@ -3,20 +3,94 @@ import sys
 import os
 import pathlib
 import time 
+import pickle
+from datetime import datetime
+import pyAesCrypt
+import packet_header as ph
+from os import stat, remove
 #AF_INET -> IPv4
 #SOCK_STREAM -> TCP
+class ap_request:
+    def __init__(self):
+        self.type = "AP_REQ"
+        self.ticket_length = 0
+        self.encrypted_ticket = ""
+        self.client_ID = ""
+
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind((socket.gethostname(), 1234))
 s.listen(5) #queue
 statistics = open("ServerStats.txt", "a+")
-while True: 
-    clientsocket, address = s.accept() #happy to see you 
-    print(f"Connection from {address} has been established.\n")
-    clientsocket.send(bytes("You may now access files on the server.", "utf-8"))
-   # print("The time we connected to the server is %s" %tm.decode('ascii'))
-    #lets send a file bro
-    msg = clientsocket.recv(1024)
-    command = msg.decode("utf-8")
+server_id_self = "bob"
+ssc = open('ssc.txt', 'r')
+secretSharedKey = ssc.read()
+flagquit = False
+
+clientsocket, address = s.accept() #happy to see you 
+print(f"Recieved connection from {address}. Verifying credentials.\n")
+clientsocket.send(bytes("Verifying credential...", "utf-8"))
+
+# print("The time we connected to the server is %s" %tm.decode('ascii'))
+#lets send a file bro
+message = clientsocket.recv(1024)
+server_ticket = pickle.loads(message)
+
+
+size = stat("ticket.txt.aes").st_size
+client = "alice"
+#type
+#ticket_length
+#encrypted ticket
+#clientID
+bufferSize = 64 * 1024
+password = secretSharedKey
+with open("ticket.txt", "wb") as fOut:
+    with open('ticket.txt.aes', "rb") as fIn:
+        try:
+            pyAesCrypt.decryptStream(fIn, fOut, secretSharedKey,bufferSize, size)
+        except: 
+            flagquit = True
+           
+fOut.close()
+dT= open("ticket.txt", 'r')
+decryptedTicket = dT.read()
+delivered_SSC = decryptedTicket[0:32]
+delivered_Client = decryptedTicket[32:37]
+print(delivered_Client) 
+
+#TODO:Check make sure server and client are good 
+if flagquit == True:
+    print("Client not authenticated.")
+    clientsocket.send(bytes("-1", 'utf-8'))
+
+    clientsocket.close()
+    statistics.close()
+    s.close()
+    print("Goodbye!")
+    quit()
+
+if delivered_Client != client:
+    print("Client not authenticated.")
+    clientsocket.send(bytes("-1", 'utf-8'))
+    clientsocket.close()
+    statistics.close()
+    s.close()
+    print("Goodbye!")
+    quit()
+'''if server_ticket.time < server_ticket.expires_at:
+    print("Client not authenticated.")
+    clientsocket.close()
+    statistics.close()
+    s.close()
+    print("Goodbye!")
+    quit()'''
+
+now = datetime.now()
+print("Recieved connection from client at ",now )
+clientsocket.send(bytes("Connection successful! You are authenticated.", 'utf-8'))
+while True:  
+    com = clientsocket.recv(1024)
+    command = com[:].decode('utf-8')
   
     while (command !="-1"): 
         if (command == "1"):
@@ -91,6 +165,10 @@ while True:
         print("Ready for your next input..")
         msg = clientsocket.recv(1024)
         command = msg.decode("utf-8")
+        if command == "":
+            print("Looks like client may have disconnected, please reconnect.")
+            quit()
+      
     clientsocket.close()
     statistics.close()
     s.close()

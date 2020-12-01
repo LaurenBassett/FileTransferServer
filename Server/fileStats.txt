@@ -1,0 +1,564 @@
+____________________________
+File: fileStats.txt
+File Size: 0 MB
+File was last accessed on: 1605536647 
+
+File: server.py
+File Size: 4334 MB
+File was last accessed on: 1605536637 
+
+File: ServerStats.txt
+File Size: 0 MB
+File was last accessed on: 1605536637 
+____________________________
+File: fileStats.txt
+File Size: 257 MB
+File was last accessed on: 1605536741 
+
+File: server.py
+File Size: 4334 MB
+File was last accessed on: 1605537728 
+
+File: ServerStats.txt
+File Size: 0 MB
+File was last accessed on: 1605536637 
+____________________________
+File: fileStats.txt
+File Size: 516 MB
+File was last accessed on: 1605835021 
+
+File: server.py
+File Size: 4334 MB
+File was last accessed on: 1605837777 
+
+File: ServerStats.txt
+File Size: 0 MB
+File was last accessed on: 1605536637 
+____________________________
+File: fileStats.txt
+File Size: 775 MB
+File was last accessed on: 1605838300 
+
+File: packet_header.py
+File Size: 756 MB
+File was last accessed on: 1606180185 
+
+File: server.py
+File Size: 4672 MB
+File was last accessed on: 1606180292 
+
+File: ServerStats.txt
+File Size: 0 MB
+File was last accessed on: 1605536637 
+____________________________
+File: fileStats.txt
+File Size: 1115 MB
+File was last accessed on: 1606180308 
+
+File: packet_header.py
+File Size: 756 MB
+File was last accessed on: 1606357535 
+
+File: server.py
+File Size: 4672 MB
+File was last accessed on: 1606357622 
+
+File: ServerStats.txt
+File Size: 0 MB
+File was last accessed on: 1605536637 
+____________________________
+File: fileStats.txt
+File Size: 1456 MB
+File was last accessed on: 1606357642 
+
+File: packet_header.py
+File Size: 756 MB
+File was last accessed on: 1606360450 
+
+File: server.py
+File Size: 5412 MB
+File was last accessed on: 1606360450 
+
+File: ServerStats.txt
+File Size: 33 MB
+File was last accessed on: 1606357658 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606359749 
+____________________________
+File: fileStats.txt
+File Size: 1869 MB
+File was last accessed on: 1606417766 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606450893 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606450903 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606450903 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606450940 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450940 
+____________________________
+File: fileStats.txt
+File Size: 2437 MB
+File was last accessed on: 1606450959 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606451634 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606451698 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606451585 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606451653 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606451653 
+____________________________
+File: fileStats.txt
+File Size: 3005 MB
+File was last accessed on: 1606451701 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606451772 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606451805 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606451806 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606451879 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606451878 
+____________________________
+File: fileStats.txt
+File Size: 3573 MB
+File was last accessed on: 1606451884 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606451772 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606451924 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606451924 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606451930 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606451930 
+____________________________
+File: fileStats.txt
+File Size: 4141 MB
+File was last accessed on: 1606451933 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606451959 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606452023 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606452023 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606452029 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606452029 
+____________________________
+File: fileStats.txt
+File Size: 4709 MB
+File was last accessed on: 1606452033 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606451959 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606452330 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606452330 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606452337 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606452337 
+____________________________
+File: fileStats.txt
+File Size: 5277 MB
+File was last accessed on: 1606452340 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606452645 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606452696 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606452696 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606452702 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606452702 
+____________________________
+File: fileStats.txt
+File Size: 5845 MB
+File was last accessed on: 1606452711 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606452645 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606452905 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606452905 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606452912 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606452912 
+____________________________
+File: fileStats.txt
+File Size: 6413 MB
+File was last accessed on: 1606452915 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606452977 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606452987 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606452987 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606452993 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606452992 
+____________________________
+File: fileStats.txt
+File Size: 6981 MB
+File was last accessed on: 1606452996 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606453231 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606453290 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606453291 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606453302 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606453301 
+____________________________
+File: fileStats.txt
+File Size: 7549 MB
+File was last accessed on: 1606453305 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606453231 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606453404 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606453404 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606453409 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606453409 
+____________________________
+File: fileStats.txt
+File Size: 8117 MB
+File was last accessed on: 1606453412 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606453231 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606453509 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606453509 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606453517 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606453516 
+____________________________
+File: fileStats.txt
+File Size: 8685 MB
+File was last accessed on: 1606453521 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606453231 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606453590 
+
+File: ServerStats.txt
+File Size: 222 MB
+File was last accessed on: 1606444807 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606453590 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606453600 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606453600 
+____________________________
+File: fileStats.txt
+File Size: 9253 MB
+File was last accessed on: 1606453602 
+
+File: mainframe.txt
+File Size: 16 MB
+File was last accessed on: 1606453934 
+
+File: matt.txt
+File Size: 6 MB
+File was last accessed on: 1606453629 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606495661 
+
+File: server.py
+File Size: 6114 MB
+File was last accessed on: 1606683016 
+
+File: ServerStats.txt
+File Size: 402 MB
+File was last accessed on: 1606453939 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606683016 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606683380 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606683379 
+____________________________
+File: declare.txt
+File Size: 1025 MB
+File was last accessed on: 1606697626 
+
+File: fileStats.txt
+File Size: 9969 MB
+File was last accessed on: 1606683411 
+
+File: mainframe.txt
+File Size: 16 MB
+File was last accessed on: 1606453934 
+
+File: matt.txt
+File Size: 6 MB
+File was last accessed on: 1606453629 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606689587 
+
+File: server.py
+File Size: 6350 MB
+File was last accessed on: 1606697744 
+
+File: ServerStats.txt
+File Size: 493 MB
+File was last accessed on: 1606697609 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606697744 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606697778 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606697778 
+____________________________
+File: fileStats.txt
+File Size: 10762 MB
+File was last accessed on: 1606697786 
+
+File: mainframe.txt
+File Size: 16 MB
+File was last accessed on: 1606453934 
+
+File: matt.txt
+File Size: 6 MB
+File was last accessed on: 1606453629 
+
+File: packet_header.py
+File Size: 2265 MB
+File was last accessed on: 1606689587 
+
+File: server.py
+File Size: 6350 MB
+File was last accessed on: 1606697744 
+
+File: ServerStats.txt
+File Size: 493 MB
+File was last accessed on: 1606697609 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606697744 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606697778 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606697778 

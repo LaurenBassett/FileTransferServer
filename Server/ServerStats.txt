@@ -1,0 +1,29 @@
+Upload recieved at 1606357657799
+Upload recieved at 1606360555981
+->Upload resolved at 1606360555983
+Size of file: 32 MB
+
+Delete request recieved at 1606360570710
+->Deletion completed at 1606360570710
+Size of file: 32 MB
+
+Upload recieved at 1606453614707
+->Upload resolved at 1606453614713
+Size of file: 6 MB
+
+Download started at 1606453934389
+->Download resolved at 1606453934395
+Size of file: 16 MB
+
+Upload recieved at 1606697602484
+->Upload resolved at 1606697602486
+Size of file: 1024 MB
+
+Delete request recieved at 1606697807115
+->Deletion completed at 1606697807116
+Size of file: 1025 MB
+
+Download started at 1606697824650
+->Download resolved at 1606697824656
+Size of file: 16 MB
+

@@ -1,588 +1,988 @@
 ____________________________
 File: client.py
-File Size: 2373 MB
-File was last accessed on: 1587780846 
+File Size: 2995 MB
+File was last accessed on: 1605536645 
 
-File: coronavirus.txt
+File: fileStats.txt
+File Size: 0 MB
+File was last accessed on: 1605536647 
+____________________________
+File: client.py
+File Size: 3577 MB
+File was last accessed on: 1605537732 
+
+File: fileStats.txt
+File Size: 179 MB
+File was last accessed on: 1605536742 
+____________________________
+File: authserver.py
+File Size: 1913 MB
+File was last accessed on: 1605837683 
+
+File: client.py
+File Size: 4242 MB
+File was last accessed on: 1605837710 
+
+File: fileStats.txt
+File Size: 360 MB
+File was last accessed on: 1605833386 
+
+File: packet_header.py
+File Size: 748 MB
+File was last accessed on: 1605837741 
+
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1605837430 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1605837298 
+
+File: ssc.txt
+File Size: 31 MB
+File was last accessed on: 1605837354 
+____________________________
+File: authserver.py
+File Size: 2163 MB
+File was last accessed on: 1606180217 
+
+File: client.py
+File Size: 4668 MB
+File was last accessed on: 1606180220 
+
+File: fileStats.txt
+File Size: 924 MB
+File was last accessed on: 1606098837 
+
+File: packet_header.py
+File Size: 756 MB
+File was last accessed on: 1606180185 
+
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606180214 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606179881 
+
+File: ssc.txt
 File Size: 32 MB
-File was last accessed on: 1587778907 
+File was last accessed on: 1606180225 
+____________________________
+File: authserver.py
+File Size: 2163 MB
+File was last accessed on: 1606180293 
+
+File: client.py
+File Size: 4668 MB
+File was last accessed on: 1606180295 
 
 File: fileStats.txt
-File Size: 0 MB
-File was last accessed on: 1587780840 
+File Size: 1488 MB
+File was last accessed on: 1606180230 
 
-File: Lab3_Bassett.docx
-File Size: 1024 MB
-File was last accessed on: 1587777698 
+File: packet_header.py
+File Size: 756 MB
+File was last accessed on: 1606180185 
 
-File: meany.txt
-File Size: 0 MB
-File was last accessed on: 1587775726 
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606180258 
 
-File: penis.txt
-File Size: 0 MB
-File was last accessed on: 1587775519 
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606179881 
 
-File: serveronly.txt
-File Size: 9 MB
-File was last accessed on: 1587776312 
-
-File: test.txt
-File Size: 11 MB
-File was last accessed on: 1587778261 
-____________________________
-File: client.py
-File Size: 2823 MB
-File was last accessed on: 1587781389 
-
-File: coronavirus.txt
+File: ssc.txt
 File Size: 32 MB
-File was last accessed on: 1587778907 
+File was last accessed on: 1606180300 
+____________________________
+File: authserver.py
+File Size: 2163 MB
+File was last accessed on: 1606357616 
+
+File: client.py
+File Size: 4668 MB
+File was last accessed on: 1606357630 
 
 File: fileStats.txt
-File Size: 666 MB
-File was last accessed on: 1587780863 
+File Size: 2053 MB
+File was last accessed on: 1606180308 
 
-File: Lab3_Bassett.docx
-File Size: 1024 MB
-File was last accessed on: 1587777698 
+File: packet_header.py
+File Size: 756 MB
+File was last accessed on: 1606357536 
 
-File: meany.txt
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606357528 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606357535 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606357636 
+____________________________
+File: authserver.py
+File Size: 2203 MB
+File was last accessed on: 1606360497 
+
+File: client.py
+File Size: 4588 MB
+File was last accessed on: 1606360499 
+
+File: fileStats.txt
+File Size: 2618 MB
+File was last accessed on: 1606357642 
+
+File: packet_header.py
+File Size: 784 MB
+File was last accessed on: 1606360495 
+
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606360070 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606360450 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606360505 
+____________________________
+File: authserver.py
+File Size: 2203 MB
+File was last accessed on: 1606413041 
+
+File: client.py
+File Size: 4588 MB
+File was last accessed on: 1606413049 
+
+File: fileStats.txt
+File Size: 3183 MB
+File was last accessed on: 1606411859 
+
+File: packet_header.py
+File Size: 784 MB
+File was last accessed on: 1606410952 
+
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606412320 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606412318 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606413053 
+____________________________
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606450893 
+
+File: authserver.py
+File Size: 2665 MB
+File was last accessed on: 1606450920 
+
+File: client.py
+File Size: 4816 MB
+File was last accessed on: 1606450924 
+
+File: data.txt.aes
 File Size: 0 MB
-File was last accessed on: 1587775726 
+File was last accessed on: 1606424454 
 
-File: penis.txt
+File: fileStats.txt
+File Size: 3748 MB
+File was last accessed on: 1606444828 
+
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606450893 
+
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606450894 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606450893 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606450928 
+
+File: test.py
 File Size: 0 MB
-File was last accessed on: 1587775519 
+File was last accessed on: 1606423182 
 
-File: test.txt
-File Size: 11 MB
-File was last accessed on: 1587778261 
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606450928 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
 ____________________________
-File: client.py
-File Size: 2953 MB
-File was last accessed on: 1587783699 
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606451634 
 
-File: corona.txt
-File Size: 9549 MB
-File was last accessed on: 1587783608 
-
-File: essay.txt
-File Size: 3751 MB
-File was last accessed on: 1587783546 
-
-File: fileStats.txt
-File Size: 1253 MB
-File was last accessed on: 1587782476 
-
-File: lorem.txt
-File Size: 29131 MB
-File was last accessed on: 1587783663 
-
-File: something.txt
-File Size: 58 MB
-File was last accessed on: 1587783584 
-____________________________
-File: client.py
-File Size: 2953 MB
-File was last accessed on: 1587783823 
-
-File: corona.txt
-File Size: 9549 MB
-File was last accessed on: 1587783608 
-
-File: coronavirus.txt
-File Size: 1024 MB
-File was last accessed on: 1587783845 
-
-File: essay.txt
-File Size: 3751 MB
-File was last accessed on: 1587783546 
-
-File: fileStats.txt
-File Size: 1763 MB
-File was last accessed on: 1587783703 
-
-File: lorem.txt
-File Size: 29131 MB
-File was last accessed on: 1587783829 
-
-File: something.txt
-File Size: 58 MB
-File was last accessed on: 1587783584 
-____________________________
-File: a.txt
-File Size: 1 MB
-File was last accessed on: 1587784063 
-
-File: aaa.txt
-File Size: 100000 MB
-File was last accessed on: 1587784063 
-
-File: alphabet.txt
-File Size: 100000 MB
-File was last accessed on: 1587784063 
-
-File: bible.txt
-File Size: 4047392 MB
-File was last accessed on: 1587784030 
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606451645 
 
 File: client.py
-File Size: 2953 MB
-File was last accessed on: 1587784363 
+File Size: 5003 MB
+File was last accessed on: 1606451649 
 
-File: corona.txt
-File Size: 9549 MB
-File was last accessed on: 1587783608 
-
-File: coronavirus.txt
-File Size: 1024 MB
-File was last accessed on: 1587783845 
-
-File: essay.txt
-File Size: 3751 MB
-File was last accessed on: 1587783546 
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
 
 File: fileStats.txt
-File Size: 2358 MB
-File was last accessed on: 1587783861 
+File Size: 4684 MB
+File was last accessed on: 1606450959 
 
-File: lorem.txt
-File Size: 29131 MB
-File was last accessed on: 1587783829 
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606451642 
 
-File: random.txt
-File Size: 100000 MB
-File was last accessed on: 1587784063 
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606451643 
 
-File: something.txt
-File Size: 58 MB
-File was last accessed on: 1587783584 
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606451634 
 
-File: world192.txt
-File Size: 2473400 MB
-File was last accessed on: 1587784022 
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606451653 
+
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606451653 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
 ____________________________
-File: a.txt
-File Size: 1 MB
-File was last accessed on: 1587784621 
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606451772 
 
-File: aaa.txt
-File Size: 100000 MB
-File was last accessed on: 1587784063 
-
-File: alphabet.txt
-File Size: 100000 MB
-File was last accessed on: 1587784063 
-
-File: bible.txt
-File Size: 1024 MB
-File was last accessed on: 1587784448 
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606451866 
 
 File: client.py
-File Size: 2953 MB
-File was last accessed on: 1587784615 
+File Size: 5053 MB
+File was last accessed on: 1606451872 
 
-File: corona.txt
-File Size: 9549 MB
-File was last accessed on: 1587783608 
-
-File: coronavirus.txt
-File Size: 1024 MB
-File was last accessed on: 1587783845 
-
-File: essay.txt
-File Size: 3751 MB
-File was last accessed on: 1587783546 
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
 
 File: fileStats.txt
-File Size: 3437 MB
-File was last accessed on: 1587784366 
+File Size: 5620 MB
+File was last accessed on: 1606451701 
 
-File: lorem.txt
-File Size: 29131 MB
-File was last accessed on: 1587784423 
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606451862 
 
-File: pi.txt
-File Size: 1024 MB
-File was last accessed on: 1587784409 
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606451865 
 
-File: random.txt
-File Size: 100000 MB
-File was last accessed on: 1587784063 
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606451772 
 
-File: something.txt
-File Size: 58 MB
-File was last accessed on: 1587784457 
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606451878 
 
-File: world192.txt
-File Size: 2473400 MB
-File was last accessed on: 1587784387 
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606451878 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
 ____________________________
-File: a.txt
-File Size: 1 MB
-File was last accessed on: 1587784905 
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606451772 
 
-File: aaa.txt
-File Size: 100000 MB
-File was last accessed on: 1587784918 
-
-File: alphabet.txt
-File Size: 100000 MB
-File was last accessed on: 1587784923 
-
-File: bible.txt
-File Size: 1024 MB
-File was last accessed on: 1587784929 
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606451916 
 
 File: client.py
-File Size: 2953 MB
-File was last accessed on: 1587784714 
+File Size: 5048 MB
+File was last accessed on: 1606451926 
 
-File: corona.txt
-File Size: 1024 MB
-File was last accessed on: 1587784939 
-
-File: coronavirus.txt
-File Size: 1024 MB
-File was last accessed on: 1587784741 
-
-File: essay.txt
-File Size: 3751 MB
-File was last accessed on: 1587784939 
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
 
 File: fileStats.txt
-File Size: 4589 MB
-File was last accessed on: 1587784626 
+File Size: 6556 MB
+File was last accessed on: 1606451884 
 
-File: lorem.txt
-File Size: 1024 MB
-File was last accessed on: 1587784954 
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606451910 
 
-File: pi.txt
-File Size: 1024 MB
-File was last accessed on: 1587784756 
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606451912 
 
-File: random.txt
-File Size: 100000 MB
-File was last accessed on: 1587784948 
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606451772 
 
-File: small.txt
-File Size: 12 MB
-File was last accessed on: 1587784954 
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606451929 
 
-File: something.txt
-File Size: 58 MB
-File was last accessed on: 1587784766 
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
 
-File: world192.txt
-File Size: 1024 MB
-File was last accessed on: 1587784774 
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606451930 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
 ____________________________
-File: aaa.txt
-File Size: 100000 MB
-File was last accessed on: 1587784918 
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606451959 
 
-File: alphabet.txt
-File Size: 100000 MB
-File was last accessed on: 1587784923 
-
-File: bible.txt
-File Size: 1024 MB
-File was last accessed on: 1587784929 
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606452021 
 
 File: client.py
-File Size: 2953 MB
-File was last accessed on: 1587786932 
+File Size: 5034 MB
+File was last accessed on: 1606452025 
 
-File: corona.txt
-File Size: 1024 MB
-File was last accessed on: 1587786890 
-
-File: coronavirus.txt
-File Size: 1024 MB
-File was last accessed on: 1587784741 
-
-File: essay.txt
-File Size: 3751 MB
-File was last accessed on: 1587784939 
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
 
 File: fileStats.txt
-File Size: 5814 MB
-File was last accessed on: 1587784958 
+File Size: 7492 MB
+File was last accessed on: 1606451933 
 
-File: pi.txt
-File Size: 1024 MB
-File was last accessed on: 1587784756 
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606452001 
 
-File: random.txt
-File Size: 100000 MB
-File was last accessed on: 1587784948 
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606452002 
 
-File: small.txt
-File Size: 12 MB
-File was last accessed on: 1587784954 
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606451959 
 
-File: something.txt
-File Size: 58 MB
-File was last accessed on: 1587784766 
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606452029 
 
-File: world192.txt
-File Size: 1024 MB
-File was last accessed on: 1587784774 
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606452029 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
 ____________________________
-File: aaa.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606451959 
 
-File: alphabet.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
-
-File: bible.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606452328 
 
 File: client.py
-File Size: 2953 MB
-File was last accessed on: 1588099447 
+File Size: 5113 MB
+File was last accessed on: 1606452334 
 
-File: corona.txt
-File Size: 1024 MB
-File was last accessed on: 1587956363 
-
-File: coronavirus.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
-
-File: essay.txt
-File Size: 3751 MB
-File was last accessed on: 1587787282 
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
 
 File: fileStats.txt
-File Size: 6888 MB
-File was last accessed on: 1587956363 
+File Size: 8428 MB
+File was last accessed on: 1606452033 
 
-File: pi.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606452312 
 
-File: random.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606452316 
 
-File: small.txt
-File Size: 12 MB
-File was last accessed on: 1587787282 
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606451959 
 
-File: something.txt
-File Size: 58 MB
-File was last accessed on: 1587787282 
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606452337 
 
-File: world192.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606452337 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
 ____________________________
-File: aaa.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606452642 
 
-File: alphabet.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
-
-File: bible.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606452694 
 
 File: client.py
-File Size: 2953 MB
-File was last accessed on: 1588099447 
+File Size: 5167 MB
+File was last accessed on: 1606452698 
 
-File: corona.txt
-File Size: 1024 MB
-File was last accessed on: 1587956363 
-
-File: coronavirus.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
-
-File: essay.txt
-File Size: 3751 MB
-File was last accessed on: 1587787282 
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
 
 File: fileStats.txt
-File Size: 7962 MB
-File was last accessed on: 1588099465 
+File Size: 9364 MB
+File was last accessed on: 1606452340 
 
-File: pi.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606452666 
 
-File: random.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606452666 
 
-File: small.txt
-File Size: 12 MB
-File was last accessed on: 1587787282 
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606452642 
 
-File: something.txt
-File Size: 58 MB
-File was last accessed on: 1587787282 
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606452702 
 
-File: world192.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606452702 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
 ____________________________
-File: aaa.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606452642 
 
-File: alphabet.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
-
-File: bible.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606452904 
 
 File: client.py
-File Size: 2995 MB
-File was last accessed on: 1588099694 
+File Size: 5170 MB
+File was last accessed on: 1606452908 
 
-File: corona.txt
-File Size: 1024 MB
-File was last accessed on: 1587956363 
-
-File: coronavirus.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
-
-File: essay.txt
-File Size: 3751 MB
-File was last accessed on: 1587787282 
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
 
 File: fileStats.txt
-File Size: 9036 MB
-File was last accessed on: 1588099481 
+File Size: 10300 MB
+File was last accessed on: 1606452711 
 
-File: pi.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606452899 
 
-File: random.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606452900 
 
-File: small.txt
-File Size: 12 MB
-File was last accessed on: 1587787282 
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606452642 
 
-File: something.txt
-File Size: 58 MB
-File was last accessed on: 1587787282 
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606452912 
 
-File: world192.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606452912 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
 ____________________________
-File: aaa.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606452977 
 
-File: alphabet.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
-
-File: bible.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606452985 
 
 File: client.py
-File Size: 2995 MB
-File was last accessed on: 1588099694 
+File Size: 5184 MB
+File was last accessed on: 1606452989 
 
-File: corona.txt
-File Size: 1024 MB
-File was last accessed on: 1587956363 
-
-File: coronavirus.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
-
-File: essay.txt
-File Size: 3751 MB
-File was last accessed on: 1587787282 
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
 
 File: fileStats.txt
-File Size: 10110 MB
-File was last accessed on: 1588099706 
+File Size: 11237 MB
+File was last accessed on: 1606452915 
 
-File: pi.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606452979 
 
-File: random.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606452979 
 
-File: small.txt
-File Size: 12 MB
-File was last accessed on: 1588099714 
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606452977 
 
-File: something.txt
-File Size: 58 MB
-File was last accessed on: 1587787282 
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606452992 
 
-File: world192.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606452992 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
 ____________________________
-File: aaa.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606453231 
 
-File: alphabet.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
-
-File: bible.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606453289 
 
 File: client.py
-File Size: 2995 MB
-File was last accessed on: 1588103192 
+File Size: 5331 MB
+File was last accessed on: 1606453294 
 
-File: corona.txt
-File Size: 1024 MB
-File was last accessed on: 1587956363 
-
-File: coronavirus.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
-
-File: essay.txt
-File Size: 3751 MB
-File was last accessed on: 1587787282 
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
 
 File: fileStats.txt
-File Size: 11185 MB
-File was last accessed on: 1588099718 
+File Size: 12174 MB
+File was last accessed on: 1606452996 
 
-File: pi.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606453266 
 
-File: random.txt
-File Size: 100000 MB
-File was last accessed on: 1587787282 
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606453231 
 
-File: something.txt
-File Size: 58 MB
-File was last accessed on: 1587787282 
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606453231 
 
-File: world192.txt
-File Size: 1024 MB
-File was last accessed on: 1587787282 
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606453301 
+
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606453301 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
+____________________________
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606453231 
+
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606453401 
+
+File: client.py
+File Size: 5332 MB
+File was last accessed on: 1606453405 
+
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
+
+File: fileStats.txt
+File Size: 13111 MB
+File was last accessed on: 1606453305 
+
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606453359 
+
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606453360 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606453231 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606453409 
+
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606453409 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
+____________________________
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606453231 
+
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606453507 
+
+File: client.py
+File Size: 5351 MB
+File was last accessed on: 1606453512 
+
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
+
+File: fileStats.txt
+File Size: 14048 MB
+File was last accessed on: 1606453412 
+
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606453498 
+
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606453499 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606453231 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606453516 
+
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606453516 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
+____________________________
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606453231 
+
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606453588 
+
+File: client.py
+File Size: 5352 MB
+File was last accessed on: 1606453595 
+
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
+
+File: fileStats.txt
+File Size: 14985 MB
+File was last accessed on: 1606453521 
+
+File: matt.txt
+File Size: 6 MB
+File was last accessed on: 1606453586 
+
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606453574 
+
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606453585 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606453231 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606453600 
+
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606453600 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606450289 
+____________________________
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606495661 
+
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606683373 
+
+File: client.py
+File Size: 5352 MB
+File was last accessed on: 1606683375 
+
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
+
+File: fileStats.txt
+File Size: 15993 MB
+File was last accessed on: 1606453602 
+
+File: mainframe.txt
+File Size: 17 MB
+File was last accessed on: 1606453953 
+
+File: matt.txt
+File Size: 6 MB
+File was last accessed on: 1606453614 
+
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606496217 
+
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606495654 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606495661 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606683379 
+
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606683379 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606496124 
+____________________________
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606689587 
+
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606697740 
+
+File: client.py
+File Size: 5596 MB
+File was last accessed on: 1606697771 
+
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
+
+File: declare.txt
+File Size: 8147 MB
+File was last accessed on: 1606697602 
+
+File: fileStats.txt
+File Size: 17078 MB
+File was last accessed on: 1606683411 
+
+File: mainframe.txt
+File Size: 17 MB
+File was last accessed on: 1606453953 
+
+File: matt.txt
+File Size: 6 MB
+File was last accessed on: 1606453614 
+
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606689587 
+
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606689602 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606689587 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606697777 
+
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606697778 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606683448 
+____________________________
+File: aes2.py
+File Size: 752 MB
+File was last accessed on: 1606689587 
+
+File: authserver.py
+File Size: 2727 MB
+File was last accessed on: 1606697740 
+
+File: client.py
+File Size: 5596 MB
+File was last accessed on: 1606697771 
+
+File: data.txt.aes
+File Size: 0 MB
+File was last accessed on: 1606424454 
+
+File: declare.txt
+File Size: 8147 MB
+File was last accessed on: 1606697602 
+
+File: fileStats.txt
+File Size: 18240 MB
+File was last accessed on: 1606697786 
+
+File: mainframe.txt
+File Size: 17 MB
+File was last accessed on: 1606453953 
+
+File: matt.txt
+File Size: 6 MB
+File was last accessed on: 1606453614 
+
+File: packet_header.py
+File Size: 2249 MB
+File was last accessed on: 1606689587 
+
+File: ServerStats.txt
+File Size: 5156 MB
+File was last accessed on: 1606689602 
+
+File: ssc.py
+File Size: 734 MB
+File was last accessed on: 1606689587 
+
+File: ssc.txt
+File Size: 32 MB
+File was last accessed on: 1606697777 
+
+File: test.py
+File Size: 0 MB
+File was last accessed on: 1606423182 
+
+File: ticket.txt
+File Size: 40 MB
+File was last accessed on: 1606697778 
+
+File: ticket.txt.aes
+File Size: 343 MB
+File was last accessed on: 1606683448 
